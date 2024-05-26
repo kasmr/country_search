@@ -1,7 +1,5 @@
 export const siteConfig = {
-  title: 'Next.js + Tailwind CSS + TypeScript Starter',
-  description:
-    'A starter for Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
-  /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://tsnext-tw.thcl.dev',
+  title: 'Country search',
+  description: 'A simple search to find countries closest to your location',
+  url: 'https://docs.google.com/document/d/13qYDsjWYrpxA4ERrJPt3r6BWSylbWEWtR23Py7F6_9s',
 };
